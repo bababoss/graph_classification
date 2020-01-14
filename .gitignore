@@ -5,7 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
-
+dataset/*
+*/dataset/*
+vis10cat.txt
+Questions.docx
 # Distribution / packaging
 .Python
 build/
